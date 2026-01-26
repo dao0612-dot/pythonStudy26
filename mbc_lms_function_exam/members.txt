@@ -1,0 +1,3 @@
+psh|1234|범승호|user|True
+kkw|1234|김기원|admin|True
+shp|1234|붐승호|manager|True
