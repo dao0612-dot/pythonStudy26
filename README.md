@@ -3,7 +3,9 @@
 
 
 
+
 파이썬 버전 3.11.2 버전
+
 
 1. LMS 삭제 -> LMS 폴더 생성 -> 각종 하위 디렉토리 생성
 2. domain에 객체 클래스 생성 -> member / score / board / item
